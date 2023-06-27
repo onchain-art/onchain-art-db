@@ -71,8 +71,8 @@ A list of on-chain projects live on the mainnet has been documented by tens of p
 ## Data Access
 The data for the on-chain art projects is stored in two files:
 
-data.csv: CSV format
-data.md: md format
+- [data.csv](https://github.com/onchain-art/onchain-art-db/blob/main/data/data.csv): CSV format
+- [data.md](https://github.com/onchain-art/onchain-art-db/blob/main/data/data.md): md format
 
 Please note that both files contain the same data, just in different formats. Choose the one that best fits your needs.
 
